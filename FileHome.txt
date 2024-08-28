@@ -11,4 +11,6 @@ git checkout Хеш 	получить файл по хешу из истории
 
 git push origin master 	поместить в GitHub мою ветку master
 
+git pull origin master 	получить из GitHub мою ветку master
+
 надо закрывать файл
