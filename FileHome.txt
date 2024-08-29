@@ -25,3 +25,7 @@ git rebase ИмяВетки 	перемещение из данной ветки
 
 git Clon Адрес хранилища	Подключается к чужому хранилищу и копирует к себе
 
+Подключиться к харилищу через ключ
+git remote set-url origin https://КЛЮЧ@github.com/JustCDN/First_repo
+
+
