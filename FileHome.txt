@@ -28,4 +28,4 @@ git Clon Адрес хранилища	Подключается к чужому 
 Подключиться к харилищу через ключ
 git remote set-url origin https://КЛЮЧ@github.com/JustCDN/First_repo
 
-
+'futcher'
