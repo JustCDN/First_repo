@@ -31,3 +31,6 @@ git remote set-url origin https://КЛЮЧ@github.com/JustCDN/First_repo
 'futcher'
 
 Cherry-Pick
+
+revert - удаляет коммит
+reset - удаляет или раскомитит несколько коммитов
